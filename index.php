@@ -40,7 +40,7 @@ function updateAndGetStats($path)
     }
 
     if (!is_array($data) || !isset($data['paths'])) {
-        $data = ['lock' => false, 'paths' => []];
+        $data = ['lock' => true, 'paths' => []];
     }
 
     $today = date('Y-m-d');
