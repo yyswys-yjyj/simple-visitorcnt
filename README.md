@@ -1,7 +1,7 @@
 # 简易访问量计数器
 
 <p align="center">
-  <img src="https://visitor.serveryyswys.top/cnt/simple-visitorcnt"></img><br>
+  <img src="https://visitor.serveryyswys.top/cnt/github-simple-visitorcnt"></img><br>
   <strong>简单易用，适合个人使用的简易访问量计数器</strong><br><br>
 </p>
 
